@@ -1,3 +1,8 @@
 Changing this file from Hello to hello1
 Edited
+<<<<<<< HEAD
+Added a very important change
+Added a cool feature
+=======
 Hey, we fixed the bug!!!
+>>>>>>> main
